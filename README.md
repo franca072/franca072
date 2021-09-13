@@ -21,4 +21,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=franca072&show_icons=true&locale=en" alt="franca072" /></p>
 
-[![Spotify](https://ffranca_072.vercel.app/api/spotify)](https://open.spotify.com/user/franca_072)
+### Spotify Playing 
+[<img src="https://novatorem-rust-one.vercel.app/api/spotify-playing" alt="Spotify" width="350" />]
