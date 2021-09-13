@@ -25,8 +25,7 @@
     <a href="https://linkedin.com/in/franca072" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="franca072" height="30" width="40" /></a>
 </p>
 
-### Spotify Playing 
-[![Spotify](https://novatorem-one-lemon-64.vercel.app/api/spotify)](https://open.spotify.com/user/USER_NAME)
-<p> 
+<details>
+  <summary> GitHub Stats</summary>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=franca072&title_color=1d87da&icon_color=539bf5&text_color=539bf5&bg_color=0000&show_icons=true&hide_border=true&hide=issues,prs" alt="franca072-stats" />
-</p>
+</details>
