@@ -4,11 +4,17 @@
   Hi, my name is <b>Matheus França</b>, a 21 year-old Brazilian student aspiring to be a developer!!
 </p>
 
-<h2 align ="center"> Programming Languages </h2>
-- 🌱 I’m currently learning **a little bit of every major programming language**
+<h2 align ="left"> Programming Languages: </h2>
+  ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+  ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+  ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+  ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+  
+  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+  ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
-- 📫 How to reach me: **matheus.franca@outlook.pt**
-<br />
+  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+  ![Atom](https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=white)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
