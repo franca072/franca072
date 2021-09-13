@@ -1,5 +1,6 @@
 
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=franca072&show_icons=true&locale=en" alt="franca072" /></p>
+<br />
 <h1 align="center">Hi 👋, I'm Matheus França</h1>
 <h3 align="center">Currently a Student aspiring to be a Developer!</h3>
 <br />
