@@ -22,4 +22,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=franca072&show_icons=true&locale=en" alt="franca072" /></p>
 
 ### Spotify Playing 
-[![Spotify](https://novatorem-rust-one.vercel.app/api/spotify)](https://open.spotify.com/user/USER_NAME)
+[![Spotify](https://novatorem-rust-one.vercel.app/api/spotify)](https://open.spotify.com/user/franca_07)
