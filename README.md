@@ -3,7 +3,7 @@
 - 🌱 Trying to learn a bit of every major programming language
 
 ### Connect with me:
-[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/[instagram].svg" />
 [<img align="left" alt="Twitter" width="22px" src="https://freeicons.io/popular-social-media-icons/instagram-icon-30619" />][twitter]
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
