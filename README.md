@@ -1,10 +1,11 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=franca072&title_color=1d87da&icon_color=539bf5&text_color=539bf5&bg_color=0000&show_icons=true&hide_border=true&hide=issues,prs" alt="franca072-stats" />
-<br />
-<h1 align="center">Hi 👋, I'm Matheus França</h1>
-<h3 align="center">Currently a Student aspiring to be a Developer!</h3>
-<br />
+<p align="center">
+  <h2 align="left"> About Me: </h2>
+  Hi, my name is <b>Matheus França</b>, a 21 year-old Brazilian student aspiring to be a developer!!
+</p>
 
+<h2 align ="center"> Programming Languages </h2>
 - 🌱 I’m currently learning **a little bit of every major programming language**
 
 - 📫 How to reach me: **matheus.franca@outlook.pt**
