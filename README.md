@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm MatheusFrança</h1>
+<h1 align="center">Hi 👋, I'm Matheus França</h1>
 <h3 align="center">Currently a Student aspiring to be a Developer!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=franca072&label=Profile%20views&color=0e75b6&style=flat" alt="franca072" /> </p>
