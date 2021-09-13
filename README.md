@@ -18,15 +18,15 @@
   ![Atom](https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=white)
 
 <h3 align="left">Social Stuff:</h3>
-<p align="left">
-<a href="https://twitter.com/franca_072" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="franca_072" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/franca072" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="franca072" height="30" width="40" /></a>
-<a href="https://instagram.com/franca_072" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="franca_072" height="30" width="40" /></a>
-<a href="https://discordapp.com/users/franca_072" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="franca_072" height="30" width="40" /></a>
+  <p align="left">
+    <a href="https://discordapp.com/users/franca_072" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="franca_072" height="30" width="40" /></a>
+    <a href="https://twitter.com/franca_072" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="franca_072" height="30" width="40" /></a>
+    <a href="https://instagram.com/franca_072" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="franca_072" height="30" width="40" /></a>
+    <a href="https://linkedin.com/in/franca072" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="franca072" height="30" width="40" /></a>
 </p>
 
 ### Spotify Playing 
 [![Spotify](https://novatorem-i22vy555c-franca072.vercel.app/)](https://open.spotify.com/user/franca_07)
 <p> 
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=franca072&title_color=1d87da&icon_color=539bf5&text_color=539bf5&bg_color=0000&show_icons=true&hide_border=true&hide=issues,prs" alt="franca072-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=franca072&title_color=1d87da&icon_color=539bf5&text_color=539bf5&bg_color=0000&show_icons=true&hide_border=true&hide=issues,prs" alt="franca072-stats" />
 </p>
