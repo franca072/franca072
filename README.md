@@ -26,7 +26,7 @@
 </p>
 
 ### Spotify Playing 
-[![Spotify](https://novatorem-i22vy555c-franca072.vercel.app/)](https://open.spotify.com/user/franca_07)
+[![Spotify](https://novatorem-one-lemon-64.vercel.app/api/spotify)](https://open.spotify.com/user/USER_NAME)
 <p> 
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=franca072&title_color=1d87da&icon_color=539bf5&text_color=539bf5&bg_color=0000&show_icons=true&hide_border=true&hide=issues,prs" alt="franca072-stats" />
 </p>
