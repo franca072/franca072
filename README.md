@@ -1,7 +1,7 @@
 
 <p align="center">
   <h2 align="left"> About Me: </h2>
-  Hi, my name is <b>Matheus França</b>, a 21 year-old Brazilian student aspiring to be a developer!!
+  Hi, my name is <b>Matheus França</b>, a 22 year-old Brazilian student aspiring to be a developer!
 </p>
 
 ## Programming Languages and Tools:
